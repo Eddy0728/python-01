@@ -13,3 +13,5 @@ def multi(a, b):
 print(plus(2, 3))
 print(multi(2, 3))
 print(minus(2, 3))
+
+print(multi(8, 8))
