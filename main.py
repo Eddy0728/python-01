@@ -14,4 +14,4 @@ print(plus(2, 3))
 print(multi(2, 3))
 print(minus(2, 3))
 
-print(multi(8, 8))
+print(multi(8, 9))
